@@ -1,0 +1,6 @@
+name: 'Pokemon'
+main: 'com.avairebot.pokemon.PokemonMain'
+version: '0.0.1'
+author: 'Chara <Chara#6274>'
+description: 'Creates a pokemon module for AvaIre'
+requires: '0.7.71'

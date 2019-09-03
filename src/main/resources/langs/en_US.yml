@@ -1,0 +1,9 @@
+search:
+  FindPokemonCommand:
+    missingPokemonFile: "Unable to retrieve Pokemon data on {0} at current time. Please check the given input is correct."
+    statsDisplay:
+      abilities: "Abilities: \n {0}"
+      physicalAttributes: " Height: {0} m \n Weight: {1} kg"
+  FindPokemonAbilityCommand:
+    pokemon_ability_none: "No pokemon ability found matching that name was found."
+    rating: "Rating {0}"
