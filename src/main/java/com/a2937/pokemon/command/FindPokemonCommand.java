@@ -1,12 +1,12 @@
-package com.avairebot.pokemon.command;
+package com.a2937.pokemon.command;
 
 import com.avairebot.commands.Category;
 import com.avairebot.commands.CategoryHandler;
 import com.avairebot.commands.CommandMessage;
 import com.avairebot.contracts.commands.Command;
 import com.avairebot.plugin.JavaPlugin;
-import com.avairebot.pokemon.data.PokemonModel;
-import com.avairebot.pokemon.handlers.PokemonDataRetriever;
+import com.a2937.pokemon.data.PokemonModel;
+import com.a2937.pokemon.handlers.PokemonDataRetriever;
 import com.avairebot.utilities.NumberUtil;
 import com.avairebot.utilities.RandomUtil;
 import net.dv8tion.jda.core.EmbedBuilder;

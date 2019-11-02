@@ -1,4 +1,4 @@
-package com.avairebot.pokemon.data;
+package com.a2937.pokemon.data;
 
 import java.util.Arrays;
 import java.util.HashMap;

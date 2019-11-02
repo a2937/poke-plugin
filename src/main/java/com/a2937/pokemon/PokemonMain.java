@@ -1,4 +1,4 @@
-package com.avairebot.pokemon;
+package com.a2937.pokemon;
 
 import com.avairebot.language.Language;
 import com.avairebot.plugin.JavaPlugin;

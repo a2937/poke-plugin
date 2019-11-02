@@ -1,4 +1,4 @@
-package com.avairebot.pokemon.data;
+package com.a2937.pokemon.data;
 
 public class PokemonAbilityModel
 {

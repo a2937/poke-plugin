@@ -1,8 +1,8 @@
-package com.avairebot.pokemon.handlers;
+package com.a2937.pokemon.handlers;
 
-import com.avairebot.pokemon.PokemonMain;
-import com.avairebot.pokemon.data.PokemonAbilityModel;
-import com.avairebot.pokemon.data.PokemonModel;
+import com.a2937.pokemon.PokemonMain;
+import com.a2937.pokemon.data.PokemonAbilityModel;
+import com.a2937.pokemon.data.PokemonModel;
 import com.google.gson.Gson;
 import org.json.JSONArray;
 import org.json.JSONObject;
